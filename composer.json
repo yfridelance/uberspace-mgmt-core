@@ -1,9 +1,9 @@
 {
-    "name": "yfridelance/uberspace-mgmt",
+    "name": "yfridelance/uberspace-mgmt-core",
     "description": "",
     "keywords": ["yfridelance"],
     "type": "contao-module",
-    "homepage": "http://github.com/yfridelance/uberspace-mgmt",
+    "homepage": "http://github.com/yfridelance/uberspace-mgmt-core",
     "license": "LGPL-3.0+",
     "authors": [
         {
@@ -15,8 +15,8 @@
     ],
     "support": {
         "email": "support@fridelance.ch",
-        "issues": "https://github.com/yfridelance/uberspace-mgmt/issues",
-        "source": "https://github.com/yfridelance/uberspace-mgmt"
+        "issues": "https://github.com/yfridelance/uberspace-mgmt-core/issues",
+        "source": "https://github.com/yfridelance/uberspace-mgmt-core"
     },
     "require": {
         "php": ">=5.3",
